@@ -403,14 +403,3 @@ function getImageMimeType($imagedata)
   return NULL;
 }
 
-
-// function getImageMimeType($imagedata)
-// {
-// 	echo "---->".$imagedata;
-//   $imagedata = base64_decode($imagedata);
-
-// 	$f = finfo_open();
-
-// 	$mime_type = finfo_buffer($f, $imagedata, FILEINFO_MIME_TYPE);
-// 	return $mime_type;
-// }
