@@ -10,6 +10,7 @@ DB will be initialised on first call to the API URL.
 
 
 All operations on employees data is done through HTTP POST requests. Permitted operations are described below:
+
 **1. CREATE**
 
 API URL: http://dummyapiurl/api/employees.php
