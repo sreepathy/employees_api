@@ -107,10 +107,10 @@ Non existent employee: `{"error": "Employee does not exist","code":"1"}`
 
 Failed Deletion: `{"error": "Employee delete failed","code":"-2"}`
 
-**5. READALL** - Returns the complete list of employees in json format
+**5. READ ALL** - Returns the complete list of employees in json format
 
 Params: 
- `-action - should be string "DELETE"`
+ `-action - should be string "READALL"`
 
 Response: 
 
