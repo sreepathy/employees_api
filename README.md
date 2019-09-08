@@ -24,7 +24,8 @@ Params:
      - empid - a valid integer
      - ename - should match reg exp /^[a-zA-Z ]{3,40}$/ 
      - dob - YYYY-MM-DD
-     - email - a valid email address mobile - 10 digit number matching reg exp /^[6-9]{1}[0-9]{9}$/ 
+     - email - a valid email address 
+     - mobile - 10 digit number matching reg exp /^[6-9]{1}[0-9]{9}$/ 
      - addr - (ADDRESS) should match reg exp /^[a-zA-Z0-9 \s\.\,\#\/]{10,300}$/ 
      - latt - location latitute - a floating point number
      - long - location longitude - a floating point number
