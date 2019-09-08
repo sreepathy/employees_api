@@ -1,6 +1,8 @@
 # employees_api
 A single page PHP-SQLITE3 API facilitating CRUD on an employees table
 
+AIzaSyBuUB1XEVlY_UOJYLdmTut0VKE5Cz6xal4
+
 This is an API developed in PHP 7.1+ with SQLITE 3 extension only for testing purposes. It creates an unsecure sqlite3 db with name .employees.db in the same folder (so that it is invisble in finder). It is strictly not for production use. The DB is created in web folder so that it can be downloaded and verified in external tools without accessing server. 
 
 Usage:
